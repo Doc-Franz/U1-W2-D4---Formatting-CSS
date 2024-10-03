@@ -1,0 +1,101 @@
+/* IMPOSTAZIONI GENERALI */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(../img/sfondo.png);
+}
+
+/* HEADER */
+
+header {
+  margin-top: 20px;
+  color: white;
+  text-align: center;
+  background-color: deepskyblue;
+}
+
+header figure {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  vertical-align: middle;
+}
+
+header div {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* MAIN */
+
+main {
+  background-color: white;
+  text-align: center;
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+main article p {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: left;
+}
+
+main article h1 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+main p span {
+  color: rgb(214, 196, 196);
+  padding-left: 80px;
+}
+
+main article ul .disc {
+  list-style-type: disc;
+}
+
+main article ul .decimal {
+  list-style-type: decimal;
+}
+
+main h5 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+/* TABELLE */
+
+main table caption {
+  font-style: italic;
+  font-weight: bold;
+  padding-bottom: 5px;
+}
+
+main table {
+  width: 400px;
+  border-bottom: 2px solid blue;
+}
+
+main table tr th {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  background-color: rgb(41, 41, 233);
+}
+
+main table .gray {
+  background-color: rgb(212, 212, 212);
+}
+
+main p {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
